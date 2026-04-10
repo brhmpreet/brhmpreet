@@ -9,5 +9,5 @@
 - MongoDB, MySQL
 
 ## 📫 Contact
-- LinkedIn: [your-link](https://www.linkedin.com/in/braham-s-620035131/)
+- LinkedIn: [link](https://www.linkedin.com/in/braham-s-620035131/)
 - Email: brahamsingh.dev@gmail.com
