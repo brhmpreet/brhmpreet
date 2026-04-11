@@ -6,7 +6,7 @@
 ## 🔧 Tech Stack
 - Java, Javascript, C++
 - React, Springboot
-- MongoDB, MySQL
+- MySQL
 
 ## 📫 Contact
 - LinkedIn: [link](https://www.linkedin.com/in/braham-s-620035131/)
